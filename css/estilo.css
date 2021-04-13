@@ -1,3 +1,13 @@
+h1{
+    color: floralwhite;
+}
 body{
-    background-color: brown;
+    background-color: darkslategray ;
+}
+img.img-thumbnail{
+    width: 80%;
+    height: 80%;
+}
+h3{
+    color:darkkhaki;
 }
